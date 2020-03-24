@@ -1,2 +1,3 @@
 # izi_framework
- A small mvc framework
+ 
+A small MVC framework using the composer autoloader
